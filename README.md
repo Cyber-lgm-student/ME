@@ -43,7 +43,7 @@ Ce portfolio présente mes compétences, projets et études de cas. Explorez pou
 
 - 🔸 Fonctionnalités : Surveillance en temps réel, alertes automatisées
 - ⚛ Frameworks : ELK Stack, Python
-- 🌐 Lien vers le repo : [Lien vers le projet](#)
+- 🌐 Lien vers le repo : [SOON](#)
 
 ---
 
@@ -54,7 +54,7 @@ Vous pouvez retrouver mes articles sur les thèmes de la cybersécurité :
 2. **Comment construire un honeypot efficace**
 3. **Techniques avancées en analyse forensique**
 
-**Lien :** [Mon Blog](#)
+**Lien :** [SOON](#)
 
 ---
 
@@ -74,8 +74,8 @@ Vous pouvez retrouver mes articles sur les thèmes de la cybersécurité :
 ---
 
 ## ✨ Contactez-moi
-- 📧 **Email** : [VotreEmail@example.com](mailto:VotreEmail@example.com)
-- 👨‍💻 **LinkedIn** : [Votre Profil LinkedIn](#)
-- 🔧 **Portfolio Web** : [VotreSiteWeb.com](#)
+- 📧 **Email** : [vincent.justin.lgm@gmail.com](mailto:vincent.justin.lgm@gmail.com)
+- 👨‍💻 **LinkedIn** : [SOON](#)
+- 🔧 **Portfolio Web** : [SOON](#)
 
 Merci pour votre visite, et n'hésitez pas à me contacter ou à explorer mes projets. 💪
